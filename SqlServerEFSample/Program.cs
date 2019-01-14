@@ -9,7 +9,7 @@ namespace SqlServerEFSample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("** C# CRUD sample with Entity Framework and SQL Server **\n");
+            Console.WriteLine("*** C# CRUD sample with Entity Framework and SQL Server ***\n");
             try
             {
                 // Build connection string
